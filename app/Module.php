@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace ExampleModule;
 
-use Treo\Core\ModuleManager\AbstractModule;
+use Atro\Core\ModuleManager\AbstractModule;
 
 /**
  * Class Module
