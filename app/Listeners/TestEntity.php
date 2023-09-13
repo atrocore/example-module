@@ -2,7 +2,7 @@
 
 namespace ExampleModule\Listeners;
 
-use Treo\Listeners\AbstractListener;
+use Atro\Listeners\AbstractListener;
 
 /**
  * Test Entity Listener
